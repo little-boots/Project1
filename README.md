@@ -11,5 +11,3 @@ Spring 2019
  * Chris Glessner
  * Gilberto Ramirez
  * Adam Simon
-
-Project 1, 
