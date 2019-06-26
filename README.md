@@ -1,5 +1,8 @@
 # Project 1
 
+UNC Data Analytics
+Spring 2019
+
 ## Members
 
  * Ashok Singh
@@ -8,4 +11,4 @@
  * Gilberto Ramirez
  * Adam Simon
 
-Project 1, UNC Data Analytics
+Project 1, 
