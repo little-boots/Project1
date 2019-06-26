@@ -1,4 +1,4 @@
-# Project1
+# Project 1
 
 ## Members
 
@@ -6,5 +6,6 @@
  * Michael Cary
  * Chris Glessner
  * Gilberto Ramirez
+ * Adam Simon
 
 Project 1, UNC Data Analytics
