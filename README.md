@@ -8,6 +8,6 @@ Spring 2019
 
  * Ashok Singh
  * Michael Cary
- * Chris Glessner
+ * Chris Glessner (Scrum Master)
  * Gilberto Ramirez
  * Adam Simon
